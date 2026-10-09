@@ -1,0 +1,7 @@
+# Ejemplo 7: Sumar entradas — Números con entradas · 3 + 4
+# Entradas: 3, 4   (python cuarenta.py ejemplos/07_sumar_entradas.cuarenta --entradas "3, 4")
+# Suma las dos entradas
+CO   # lee la primera entrada
+CC   # lee la segunda y la suma
+SO   # muestra el resultado
+RO   # fin. Salida como números

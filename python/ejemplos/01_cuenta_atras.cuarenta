@@ -1,0 +1,7 @@
+# Ejemplo 1: Cuenta atrás — Números · un bucle que muestra 5, 4, 3, 2, 1
+# Cuenta atrás: muestra 5, 4, 3, 2, 1
+5O   # marcador = 5
+SO   # muestra el marcador
+1E   # le resta 1
+2B   # repite las 2 cartas anteriores tantas veces como marque el marcador (4)
+RO   # fin. Rey de Oros: la salida se lee como números

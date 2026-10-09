@@ -1,0 +1,7 @@
+# Ejemplo 8: Potencias de dos — Números · multiplicar dentro de un bucle
+# Potencias de dos: 1, 2, 4
+1O   # marcador = 1
+SO   # muestra
+2C   # multiplica por 2
+2B   # el marcador vale 2 → repite 2 veces: muestra 2 y 4
+RO   # fin. Salida como números

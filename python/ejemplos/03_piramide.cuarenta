@@ -1,0 +1,8 @@
+# Ejemplo 3: Pirámide — Dibujo · filas de 5, 4, 3, 2 y 1 símbolos
+# Pirámide. Con el Rey de Espadas cada número es una fila de símbolos:
+# tantos como vale, y el palo según el resto entre 4 (1 oros, 2 copas, 3 espadas, 0 bastos)
+5O   # marcador = 5
+SO   # dibuja una fila de 5
+1E   # una menos
+2B   # repite 4 veces → filas de 4, 3, 2 y 1
+RE   # fin. Rey de Espadas: la salida se lee como dibujo

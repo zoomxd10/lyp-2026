@@ -1,0 +1,7 @@
+# Ejemplo 6: Cifrado César — Texto con entrada · avanza 3 letras (H → K)
+# Entradas: H   (python cuarenta.py ejemplos/06_cifrado_cesar.cuarenta --entradas "H")
+# Cifrado César: avanza 3 posiciones la letra de entrada (prueba con H → K)
+CO   # lee la entrada; una letra vale su posición (H = 8)
+3O   # suma 3
+SO   # escribe la letra
+RC   # fin. Salida como texto

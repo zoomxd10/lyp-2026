@@ -1,0 +1,8 @@
+# Ejemplo 4: Rombo — Dibujo · dos bucles seguidos: 1, 2, 3, 4, 3, 2, 1
+# Rombo: filas de 1, 2, 3, 4, 3, 2, 1
+3O 2E      # marcador = 1
+SO 1O      # dibuja una fila y suma 1
+2B         # el marcador vale 2 → repite 2 veces: filas 1, 2, 3 (acaba en 4)
+SC 1E 1C   # dibuja, resta 1 y multiplica por 1 (no cambia nada: es relleno)
+3B         # el marcador vale 3 → repite 3 veces: filas 4, 3, 2, 1
+RE         # fin. Salida como dibujo

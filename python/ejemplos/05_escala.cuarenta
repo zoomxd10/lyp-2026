@@ -1,0 +1,8 @@
+# Ejemplo 5: Escala — Música · escala de Do hacia abajo
+# Escala descendente. Con el Rey de Bastos cada número es una nota:
+# 1 Do, 2 Re, 3 Mi, 4 Fa, 5 Sol, 6 La, 7 Si, 8 Do agudo… (0 = silencio)
+7O 1O   # marcador = 8 (Do agudo)
+SO      # toca la nota
+1E      # baja una nota
+2B      # repite 7 veces: Si, La, Sol, Fa, Mi, Re, Do
+RB      # fin. Rey de Bastos: la salida se lee como música

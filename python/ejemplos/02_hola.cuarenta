@@ -1,0 +1,11 @@
+# Ejemplo 2: Hola — Texto · cada número es una letra
+# Escribe HOLA. Con el Rey de Copas: A=1 … Ñ=15 … Z=27, 0=espacio
+7O 1O   # 7 + 1 = 8 → H
+SO      # escribe H
+2C      # 8 × 2 = 16 → O
+SC      # escribe O
+4E      # 16 − 4 = 12 → L
+SE      # escribe L
+6E 5E   # 12 − 6 − 5 = 1 → A
+SB      # escribe A
+RC      # fin. Rey de Copas: la salida se lee como texto
